@@ -35,7 +35,7 @@ rm -f alis-packages.sh
 rm -f alis-packages-asciinema.sh
 
 curl -O https://raw.githubusercontent.com/$GITHUB_USER/alis/$BRANCH/alis.conf
-curl -O https://gist.githubusercontent.com/picodotdev/d0c0a6843d43c374c3b99df6204e920e/raw/13343a6c88310be05c0c9073f50b04bcbf21969c/alis.conf
+curl -O https://gist.githubusercontent.com/picodotdev/d0c0a6843d43c374c3b99df6204e920e/raw/0de1bfed4a2e4b0ac3d2fd72394b2c47587db3ee/alis.conf
 curl -O https://raw.githubusercontent.com/$GITHUB_USER/alis/$BRANCH/alis.sh
 curl -O https://raw.githubusercontent.com/$GITHUB_USER/alis/$BRANCH/alis-asciinema.sh
 curl -O https://raw.githubusercontent.com/$GITHUB_USER/alis/$BRANCH/alis-reboot.sh
