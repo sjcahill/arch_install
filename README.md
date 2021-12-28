@@ -1,4 +1,4 @@
-## Original Respoitory: https://github.com:picodotdev/alis.git
+## Original Respoitory: https://github.com/picodotdev/alis.git
 
 This repo was cloned bare and then mirrored for personal use.
 
